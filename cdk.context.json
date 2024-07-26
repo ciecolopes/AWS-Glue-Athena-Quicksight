@@ -7,7 +7,7 @@
       {
         "name": "Public",
         "type": "Public",
-        "subnets": [
+        "subnets": [ 
           {
             "subnetId": "subnet-5945ad13",
             "cidr": "172.31.32.0/20",
